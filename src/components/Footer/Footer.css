@@ -1,0 +1,11 @@
+Footer {
+    border: solid violet;
+    background-color: violet;
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+  
+  

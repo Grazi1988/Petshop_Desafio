@@ -6,7 +6,6 @@
 }
 
 header {
-    border: solid violet;
     background-color: violet;
     height: 30vh;
     display: flex;

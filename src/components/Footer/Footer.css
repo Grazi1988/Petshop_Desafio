@@ -1,11 +1,16 @@
-Footer {
-    border: solid violet;
+.footer-container {
     background-color: violet;
-    height: 20vh;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
+    padding: 20px;
+    text-align: center;
+  }
   
+  .contact-info {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact-info p {
+    margin: 8px 0;
+  }
+
   

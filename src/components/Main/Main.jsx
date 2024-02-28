@@ -8,6 +8,7 @@ import Rato from "./fotosMain/ratinho.jpg"
 import Passaro from "./fotosMain/periquitos.jpg"
 import Furão from "./fotosMain/furão.jpg"
 import India from "./fotosMain/porquinho.jpg"
+import Bebedouro from "./fotosMain/bebedouropet.jpg"
 
 function Main () {
      return (
@@ -39,6 +40,13 @@ function Main () {
             <img src={Tapete} alt="Tapete pinguim" />
             <p>Tapete Gelado Pinguim</p>
             <h3>R$128,00</h3>
+            <button className="comprarButton">Comprar</button>
+        </section>
+
+        <section>
+            <img src={Bebedouro} alt="Bebedouro imagem" />
+            <p>Bebedouro Portátil</p>
+            <h3>R$130,00</h3>
             <button className="comprarButton">Comprar</button>
         </section>
 

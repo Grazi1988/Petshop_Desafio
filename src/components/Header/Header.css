@@ -22,30 +22,16 @@ img{
     width: 30vh;
 }
 
-ul {
-    width: 20vw;
-    display: flex;
-    justify-content: space-evenly;
-}
-
-li{
-    font-size: 1.2rem;
-}
-
 form{
-    width: 12vw;
-    height: 15vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
 }
 
-label{
-font-size: 1rem;
-}
-
-input{
+div input{
+    width: 50vw;
+    height: 10vh;
     border-radius: 15px;
-    background-color: cornsilk;
+    background-color: white;
     text-align: center;
 }
